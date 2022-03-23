@@ -1,0 +1,20 @@
+## pacman
+ZDDS 45
+ 3
+ EOUEORUEORUEO 9
+ EOUEORUEORUEO 0
+ 0
+HGDDD 84
+HGDDD 0
+ 0
+## pacman_end
+
+## nibbler
+ 13
+Q 14
+ 3
+ 14
+ 10
+ 8
+HGDD 9
+## nibbler_end
